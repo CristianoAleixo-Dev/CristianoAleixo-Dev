@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CristianoAleixo-Dev
+- 👋 Hi, I’m @Cristiano_Aleixo
 - 👀 I’m interested in web and mobile application development.
 - 🌱 I’m currently learning  Java, Objective-C,  Python...
 - 
